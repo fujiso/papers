@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: issueテンプレート
+about: 貢献以下は消してもOK
 
 ---
 
